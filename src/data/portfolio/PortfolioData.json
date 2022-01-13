@@ -39,7 +39,7 @@
 
   {
     "id": 2,
-    "portfolioImage": "./images/portfolio/portfolio-02.jpg",
+    "portfolioImage": "./images/portfolio/portfolio-08.jpg",
     "image": "images/portfolio/portfolio-02.jpg",
     "title": "Business Development",
     "subtitle": "Awesome portfolio",
@@ -55,7 +55,7 @@
       "buttontext": "View Projects",
       "link": "/"
     },
-    "largeImage": "images/portfolio/portfolio-02.jpg",
+    "largeImage": "images/portfolio/portfolio-08.jpg",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -69,16 +69,16 @@
       "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": {
-      "imageOne": "images/portfolio/portfolio-01.jpg",
-      "imageTwo": "images/portfolio/portfolio-02.jpg",
-      "imageThree": "images/portfolio/portfolio-03.jpg"
+      "imageOne": "images/portfolio/portfolio-08.jpg",
+      "imageTwo": "images/portfolio/portfolio-08.jpg",
+      "imageThree": "images/portfolio/portfolio-08.jpg"
     }
   },
 
   {
     "id": 3,
-    "portfolioImage": "./images/portfolio/portfolio-03.jpg",
-    "image": "images/portfolio/portfolio-03.jpg",
+    "portfolioImage": "./images/portfolio/portfolio-08.jpg",
+    "image": "images/portfolio/portfolio-08.jpg",
     "title": "Photoshop Design",
     "subtitle": "Awesome portfolio",
     "date": "01 March 2021",
@@ -93,7 +93,7 @@
       "buttontext": "View Projects",
       "link": "/"
     },
-    "largeImage": "images/portfolio/portfolio-03.jpg",
+    "largeImage": "images/portfolio/portfolio-08.jpg",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -107,16 +107,16 @@
       "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": {
-      "imageOne": "images/portfolio/portfolio-01.jpg",
-      "imageTwo": "images/portfolio/portfolio-02.jpg",
-      "imageThree": "images/portfolio/portfolio-03.jpg"
+      "imageOne": "images/portfolio/portfolio-08.jpg",
+      "imageTwo": "images/portfolio/portfolio-08.jpg",
+      "imageThree": "images/portfolio/portfolio-08.jpg"
     }
   },
 
   {
     "id": 4,
-    "portfolioImage": "./images/portfolio/portfolio-04.jpg",
-    "image": "images/portfolio/portfolio-04.jpg",
+    "portfolioImage": "./images/portfolio/portfolio-08.jpg",
+    "image": "images/portfolio/portfolio-08.jpg",
     "title": "Native Application",
     "subtitle": "Awesome portfolio",
     "date": "01 March 2021",
@@ -131,7 +131,7 @@
       "buttontext": "View Projects",
       "link": "/"
     },
-    "largeImage": "images/portfolio/portfolio-04.jpg",
+    "largeImage": "images/portfolio/portfolio-08.jpg",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -145,16 +145,16 @@
       "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": {
-      "imageOne": "images/portfolio/portfolio-01.jpg",
-      "imageTwo": "images/portfolio/portfolio-02.jpg",
-      "imageThree": "images/portfolio/portfolio-04.jpg"
+      "imageOne": "images/portfolio/portfolio-08.jpg",
+      "imageTwo": "images/portfolio/portfolio-08.jpg",
+      "imageThree": "images/portfolio/portfolio-08.jpg"
     }
   },
 
   {
     "id": 5,
-    "portfolioImage": "./images/portfolio/portfolio-05.jpg",
-    "image": "images/portfolio/portfolio-05.jpg",
+    "portfolioImage": "./images/portfolio/portfolio-08.jpg",
+    "image": "images/portfolio/portfolio-08.jpg",
     "title": "React Development",
     "subtitle": "Awesome portfolio",
     "date": "01 March 2021",
@@ -169,7 +169,7 @@
       "buttontext": "View Projects",
       "link": "/"
     },
-    "largeImage": "images/portfolio/portfolio-05.jpg",
+    "largeImage": "images/portfolio/portfolio-08.jpg",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -183,16 +183,16 @@
       "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": {
-      "imageOne": "images/portfolio/portfolio-01.jpg",
-      "imageTwo": "images/portfolio/portfolio-02.jpg",
-      "imageThree": "images/portfolio/portfolio-03.jpg"
+      "imageOne": "images/portfolio/portfolio-08.jpg",
+      "imageTwo": "images/portfolio/portfolio-08.jpg",
+      "imageThree": "images/portfolio/portfolio-08.jpg"
     }
   },
 
   {
     "id": 6,
-    "portfolioImage": "./images/portfolio/portfolio-06.jpg",
-    "image": "images/portfolio/portfolio-06.jpg",
+    "portfolioImage": "./images/portfolio/portfolio-08.jpg",
+    "image": "images/portfolio/portfolio-08.jpg",
     "title": "App Installment",
     "subtitle": "Awesome portfolio",
     "date": "01 March 2021",
@@ -207,7 +207,7 @@
       "buttontext": "View Projects",
       "link": "/"
     },
-    "largeImage": "images/portfolio/portfolio-06.jpg",
+    "largeImage": "images/portfolio/portfolio-8.jpg",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -221,16 +221,16 @@
       "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": {
-      "imageOne": "images/portfolio/portfolio-01.jpg",
-      "imageTwo": "images/portfolio/portfolio-02.jpg",
-      "imageThree": "images/portfolio/portfolio-06.jpg"
+      "imageOne": "images/portfolio/portfolio-08.jpg",
+      "imageTwo": "images/portfolio/portfolio-08.jpg",
+      "imageThree": "images/portfolio/portfolio-08.jpg"
     }
   },
 
   {
     "id": 7,
-    "portfolioImage": "./images/portfolio/portfolio-07.jpg",
-    "image": "images/portfolio/portfolio-07.jpg",
+    "portfolioImage": "./images/portfolio/portfolio-08.jpg",
+    "image": "images/portfolio/portfolio-08.jpg",
     "title": "Design in figma",
     "subtitle": "Awesome portfolio",
     "date": "01 March 2021",
@@ -245,7 +245,7 @@
       "buttontext": "View Projects",
       "link": "/"
     },
-    "largeImage": "images/portfolio/portfolio-07.jpg",
+    "largeImage": "images/portfolio/portfolio-08.jpg",
     "subContent": {
       "title": "Digital Marketing.",
       "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
@@ -259,9 +259,9 @@
       "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": {
-      "imageOne": "images/portfolio/portfolio-01.jpg",
-      "imageTwo": "images/portfolio/portfolio-02.jpg",
-      "imageThree": "images/portfolio/portfolio-03.jpg"
+      "imageOne": "images/portfolio/portfolio-08.jpg",
+      "imageTwo": "images/portfolio/portfolio-08.jpg",
+      "imageThree": "images/portfolio/portfolio-08.jpg"
     }
   },
 
@@ -297,9 +297,9 @@
       "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
     },
     "gallery": {
-      "imageOne": "images/portfolio/portfolio-01.jpg",
-      "imageTwo": "images/portfolio/portfolio-02.jpg",
-      "imageThree": "images/portfolio/portfolio-03.jpg"
+      "imageOne": "images/portfolio/portfolio-08.jpg",
+      "imageTwo": "images/portfolio/portfolio-08.jpg",
+      "imageThree": "images/portfolio/portfolio-08.jpg"
     }
   },
 
